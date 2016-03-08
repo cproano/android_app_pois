@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Titulars Cloud</string>
+    <string name="action_settings">Settings</string>
+    <string name="download">Descarregar</string>
+    <string name="action_actualitza">Actualitza</string>
+    <string name="download_error">No s\'ha pogut descarregar la llista de titulars per culpa d\'un error</string>
+    <string name="cache_titulars">titulars_cache</string>
+</resources>
