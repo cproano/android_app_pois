@@ -11,5 +11,5 @@ L'API REST que utilitza l'exemple té els següent mètodes:
 | URL                | Mètode  | Paràmetres          | Descripció                  |
 | ------------------ |---------| --------------------|-----------------------------|
 | /pois              | GET     |                     | Obté tots els pois          |
-| /pois/:nomCiutat   | GET     |                     | Obté pois d'una única ciutat|
+| /pois/:nomCiutat   | GET     |        nomCiutat    | Obté pois d'una única ciutat|
 
