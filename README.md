@@ -1,4 +1,4 @@
-# Titulars Cloud
+# Pois Cloud
 
 Exemple que mostra com fer peticions HTTP (POST, GET, PUT, etc.) a una API REST
 Utilitza les següents llibreries:
