@@ -8,10 +8,8 @@ Utilitza les següents llibreries:
 
 L'API REST que utilitza l'exemple té els següent mètodes:
 
-| URL                | Mètode  | Paràmetres          | Descripció                |
-| ------------------ |---------| --------------------|---------------------------|
-| /titulars          | GET     |                     | Obté tots els titulars    |
-| /titulars/:id      | GET     |                     | Obté un únic titular      |
-| /titulars          | POST    | titol, subtitol     | Afegir un nou titular     |
-| /titulars/:id      | PUT     | titol, subtitol     | Actualitzar un titular    |
-| /titulars/:id      | DELETE  |                     | Eliminar un titular       |
+| URL                | Mètode  | Paràmetres          | Descripció                  |
+| ------------------ |---------| --------------------|-----------------------------|
+| /pois              | GET     |                     | Obté tots els pois          |
+| /pois/:nomCiutat   | GET     |                     | Obté pois d'una única ciutat|
+
